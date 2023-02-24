@@ -43,6 +43,10 @@ public abstract class Singleton {
         }
         return instance;
     }
+
+    public static Singleton getInstance(final String name) {
+        return singletonMap.get(name);
+    }
 }
 
 final class SingletonException extends Exception {
