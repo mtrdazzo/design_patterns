@@ -3,6 +3,8 @@ package com.dps;
 import org.junit.Assert;
 import org.junit.Test;
 
+import com.dps.Singleton.*;
+
 public class SingletonTest {
 
     @Test

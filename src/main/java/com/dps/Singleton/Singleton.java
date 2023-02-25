@@ -1,4 +1,4 @@
-package com.dps;
+package com.dps.Singleton;
 
 import java.lang.reflect.InvocationTargetException;
 import java.util.HashMap;

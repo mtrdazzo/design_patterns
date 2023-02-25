@@ -1,4 +1,4 @@
-package com.dps;
+package com.dps.Singleton;
 
 public class SingletonSubClass extends Singleton {
 
